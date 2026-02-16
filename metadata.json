@@ -1,0 +1,7 @@
+{
+  "name": "LiveScore AI",
+  "description": "A real-time sports scoring application powered by Gemini, providing live updates, match summaries, and search capabilities for any sporting event worldwide.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
